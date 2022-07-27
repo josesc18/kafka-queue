@@ -1,0 +1,17 @@
+{
+    "name": "josed/kafka-queue",
+    "require": {
+        "laravel/framework": "^9.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Josed\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose",
+            "email": "josedavid_san@hotmail.com"
+        }
+    ]
+}
